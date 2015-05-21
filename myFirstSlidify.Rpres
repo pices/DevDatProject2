@@ -1,0 +1,34 @@
+myFirstSlidify
+========================================================
+author: PatR
+date: Today
+
+Slide Start
+========================================================
+
+For more details on authoring R presentations click the
+**Help** button on the toolbar.
+
+-  1
+-  2
+-  3
+
+Some Codes
+========================================================
+
+```{r}
+summary(cars)
+```
+
+Some Plots
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+THANK YOU
+===
+
+
+
